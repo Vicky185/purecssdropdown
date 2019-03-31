@@ -1,18 +1,21 @@
+# Creating a dropdown
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+In this we created, as normal, the index.html and main.css (html5 and css files) to run a navigation bar with a dropdown menu full of list items.
 
+## HTML 
 
-Hi there! Welcome to Cloud9 IDE!
+* ensuring correct link to stylesheet
+* using cloud9 html shortcuts 
+* adding a navigation
+* adding a button
+* adding mutiple lists in shortcut and using a link to direct them on the page
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+## CSS
 
-Happy coding!
-The Cloud9 IDE team
+* starting with the default style for the nav bar
+* adding a button and how it will look and interact with the user (the cursor/pointer and how this changes when on the button)
+* styling the drop down menu, making it there visible on the page
+* using box shadow and copying code from external sources for appealing design
+* implementing a dropdown menu and the dropdownlist and items, styling them and how they will look when user hovers over them
+* using multiple transformations (including translating x, y and z)
+
